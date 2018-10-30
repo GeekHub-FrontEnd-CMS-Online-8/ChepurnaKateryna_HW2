@@ -1,0 +1,42 @@
+body{
+    margin-left: 50px;
+    margin-right:0px; 
+    font-family: Times-Roman, serif;
+    max-width: 790px;
+}
+header, .text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-underline{
+    text-decoration: underline;
+}
+.authors{
+    font-size: 22px;
+    line-height: 0;
+}
+.company{
+    font-size: 20px;
+    line-height: 2;
+}
+p, li{
+    font-size:  18px; 
+    line-height: 1.4;
+}
+li{
+    margin-left: 50px;
+}
+.image_left{
+    width: 42%;
+    float:left; 
+    margin: 6px 6px 6px 0;
+}
+.image_center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   
+}
